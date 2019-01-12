@@ -1,0 +1,32 @@
+.profilename{
+	border-radius:50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.scrollable{
+	overflow: scroll;
+	width: 350px;
+	height:100px;
+}
+.scrollable1{
+	overflow: scroll;
+	width: 250px;
+	height:200px;
+}
+/*.imgs {
+	position: relative;
+	margin: 0%;
+	border: 2px solid rgb(14, 13, 13);
+	max-height: 50%;
+	max-width: 100%; 
+}
+.imgs1 {
+	position: absolute;
+	bottom: 8px;
+	right: 16px;
+	color: palevioletred;
+}*/
