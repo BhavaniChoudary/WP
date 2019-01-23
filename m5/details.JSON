@@ -1,0 +1,76 @@
+{
+	"questions" : [
+		{
+			"question_text":"Minimum number of queues needed to implement the priority queue is two",
+			"options":[
+				{
+					"option_text": "True",
+					"is_correct": true,
+					"option_feedback":"correct answer"
+				},
+				{
+					"option_text":"False",
+					"is_correct": false,
+					"option_feedback":"wrong answer"
+				}
+			],
+			"hints": [
+				"Revise the lecture on Queues"
+			]
+		},
+		{
+			"question_text":"Polish and reverse polish are the notations used in Evaluation of Arithmetic Expressions using prefix and postfix forms",
+			"options":[
+				{
+					"option_text": "True",
+					"is_correct": true,
+					"option_feedback":"correct answer"
+				},
+				{
+					"option_text":"False",
+					"is_correct": false,
+					"option_feedback":"wrong answer"
+				}
+			],
+			"hints": [
+				"Revise the lecture on Queues"
+			]
+		},
+		{
+			"question_text":"Backtracking is the algorithm used in solving the 8 Queens problem",
+			"options":[
+				{
+					"option_text": "True",
+					"is_correct": true,
+					"option_feedback":"correct answer"
+				},
+				{
+					"option_text":"False",
+					"is_correct": false,
+					"option_feedback":"wrong answer"
+				}
+			],
+			"hints": [
+				"Revise the lecture on Queues"
+			]
+		},
+		{
+			"question_text":"Indexed is the simplest file structure",
+			"options":[
+				{
+					"option_text": "True",
+					"is_correct": false,
+					"option_feedback":"wrong answer"
+				},
+				{
+					"option_text":"False",
+					"is_correct": true,
+					"option_feedback":"correct answer"
+				}
+			],
+			"hints": [
+				"Revise the lecture on Queues"
+			]
+		}
+	]
+}
